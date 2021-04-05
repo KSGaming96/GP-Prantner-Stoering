@@ -6,5 +6,4 @@ function gitHub () {
     } else {
         console.log("Create Private Repo.");
     }
-    gitHub(pizzaYum);
 }
