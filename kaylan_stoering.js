@@ -1,5 +1,5 @@
 function gitHub () {
-    if (teamRepo; !== null) {
+    if (teamRepo !== null) {
         console.log("Complete Assignment.");
     } else {
         console.log("Create Private Repo.");
